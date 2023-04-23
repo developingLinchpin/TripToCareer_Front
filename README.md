@@ -40,7 +40,7 @@ sideproject 인 트립투커리어의 뷰 프레임워크로 만든 프론트엔
 <h3 align="center">trip-to-career</h3>
 
   <p align="center">
-    성공적인 이직 이력관리와 준비과정을 하나의 앱으로! 생산적인 이직 준비를 위한 이력 관리 앱. 팀 챌린지, 강의수강, 입사지원 이력을 한 곳에서 관리하고 기록하세요
+    성공적인 이직 이력관리와 준비과정을 하나의 앱으로! 생산적인 이직 준비를 위한 이력 관리 앱. 팀 챌린지, 강의수강, 입사지원 이력을 한 곳에서 관리하고 기록하세요 
     <br />
     <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
     <br />
